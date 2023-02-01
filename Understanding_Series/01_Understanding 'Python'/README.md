@@ -16,7 +16,7 @@
   - can be imported,used in our program
   - can be **Built-in** (pre installed in python)
   - can be **External** (need to be installed in python)
-  - **pip install *module_name*** : command for installing module
+  - <code style="color : black">pip install *module_name</code>* : command for installing module
 * REPL : 
   - **read evaluate print loop**
   - works in terminal
@@ -29,3 +29,5 @@
    - want to write 
    - but don't want to execute
    - written for better understanding 
+   - <code style="color : black"># single line comments</code> : used for single line comments
+   - <code style="color : black">'''multi-line comments'''</code> : used for multi-line comments
