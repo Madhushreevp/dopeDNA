@@ -31,3 +31,4 @@
    - written for better understanding 
    - <code style="color : black"># single line comments</code> : used for single line comments
    - <code style="color : black">'''multi-line comments'''</code> : used for multi-line comments
+   - ''' more than 1 line string ''' is called string literal 
