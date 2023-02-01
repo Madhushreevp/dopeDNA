@@ -22,3 +22,10 @@
   - works in terminal
   - can't save program in REPL 
   - used for faster evaluation
+ 
+ ### 03. Key Info :
+ * Comments :
+   - lines of code 
+   - want to write 
+   - but don't want to execute
+   - written for better understanding 
