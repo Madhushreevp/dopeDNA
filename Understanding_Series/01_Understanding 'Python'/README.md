@@ -7,3 +7,14 @@
 * Easy to understand 
 * Free  and  open source 
 * Works on Windows/ MAC / Linux OS
+
+### 02. Basic Data :
+* No semicolon neeeded in Python.
+* Module :
+  - file having code
+  - written by someone else
+  - can be imported & used in our program
+  - can be **Built-in** (pre installed in python)
+  - can be **External** (need to be installed in python)
+
+* **pip install *module_name*** : command for installing module
