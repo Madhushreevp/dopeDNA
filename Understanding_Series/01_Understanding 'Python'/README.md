@@ -13,8 +13,12 @@
 * Module :
   - file having code
   - written by someone else
-  - can be imported & used in our program
+  - can be imported,used in our program
   - can be **Built-in** (pre installed in python)
   - can be **External** (need to be installed in python)
-
-* **pip install *module_name*** : command for installing module
+  - **pip install *module_name*** : command for installing module
+* REPL : 
+  - **read evaluate print loop**
+  - works in terminal
+  - can't save program in REPL 
+  - used for faster evaluation
