@@ -36,12 +36,12 @@
         -  Note : <code style="color : black">os.listdir()</code> : used for listing all files in directory
      
  * Datatypes :
+    1.  integers 
+    2.  floating point
+    3.  string
+    4.  boolean 
+    5.  None 
    - variable is name to any memory location
-   1. integers 
-   2. floating point
-   3. string
-   4. boolean 
-   5. None 
    - in python, string can be in single or double or triple quotes
    - in python, datatype is identified by itself 
    - in python, datatype name can start with letters, underscore but not with digits & space 
