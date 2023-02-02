@@ -33,7 +33,7 @@
    - <code style="color : black"># single line comments</code> : used for single line comments
    - <code style="color : black">'''multi-line comments'''</code> : used for multi-line comments
    - ''' more than 1 line string ''' is called string literal 
-      -  Note : <code style="color : black">os.listdir()</code> : used for listing all files in directory
+        -  Note : <code style="color : black">os.listdir()</code> : used for listing all files in directory
      
  * Datatypes :
    - variable is name to any memory location
@@ -44,4 +44,7 @@
    5. None 
    - in python, string can be in single or double or triple quotes
    - in python, datatype is identified by itself 
-   
+   -  in python, datatype name can start with letters, underscore but not with digits & space
+   -  same rule applies for identifer (identifier is class or function or variable name )
+   - in python,   <code style="color : black"> type(variable) </code>  is a built-in function which returns datatype of any variable
+  
