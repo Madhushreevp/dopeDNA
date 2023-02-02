@@ -46,6 +46,6 @@
    - in python, datatype is identified by itself 
    - in python, datatype name can start with letters, underscore but not with digits & space 
    - in python, variable names are case sensitive i.e. 'ABC' and 'abc' are 2 different variables
-   - in python,   <code style="color : black"> type(variable) </code>  is a built-in function which returns datatype of any variable
+   - in python,   <code style="color : black"> type(variable_name) </code>  is a built-in function which returns datatype of any variable
    - same rule applies for identifer (identifier is class or function or variable name )
   
