@@ -17,6 +17,7 @@
   - can be **Built-in** (pre installed in python)
   - can be **External** (need to be installed in python)
   - <code style="color : black">pip install *module_name</code>* : command for installing module
+  - <code style="color : black">pip install *playsound </code>*  :  command for playing sound in python using module
 * REPL : 
   - **read evaluate print loop**
   - works in terminal
@@ -32,3 +33,8 @@
    - <code style="color : black"># single line comments</code> : used for single line comments
    - <code style="color : black">'''multi-line comments'''</code> : used for multi-line comments
    - ''' more than 1 line string ''' is called string literal 
+      -  Note : <code style="color : black">os.listdir()</code> : used for listing all files in directory
+     
+ * Datatypes :
+   - variable is name to any memory location
+   
