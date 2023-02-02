@@ -37,4 +37,11 @@
      
  * Datatypes :
    - variable is name to any memory location
+   1. integers 
+   2. floating point
+   3. string
+   4. boolean 
+   5. None 
+   - in python, string can be in single or double or triple quotes
+   - in python, datatype is identified by itself 
    
