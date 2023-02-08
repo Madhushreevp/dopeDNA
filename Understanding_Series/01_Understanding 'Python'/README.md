@@ -49,3 +49,4 @@
    - in python,   <code style="color : black"> type(variable_name) </code>  is a built-in function which returns datatype of any variable
    - same rule applies for identifer (identifier is class or function or variable name )
   
+**:)**
