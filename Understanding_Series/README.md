@@ -1,2 +1,2 @@
 # Understanding Series
-* Understanding different subjects at one's Pace.
+* Understanding different subjects at my Pace.
