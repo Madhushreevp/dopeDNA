@@ -74,7 +74,8 @@
 *   Escape Characters :
      - \t -> tab space
      - \n -> new line
-     
+ *  List :
+     -     
   
   ### NOTE : 
         1.  By default in python , number is in float datatype.
@@ -84,6 +85,7 @@
         5.  If  different datatype is required then it can be done using Typecasting 
         6. space is also counted as 1 character in a string 
         7. string.find returns only 1st occurence of that letter or word
+        8. Python docs -> all in 1 info about Python
         
      
   
