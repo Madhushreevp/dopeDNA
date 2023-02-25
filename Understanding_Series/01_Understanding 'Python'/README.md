@@ -65,6 +65,15 @@
      - slicing ->  using index from 0 to n (where n is not considered , n-1 is endpoint)
      - slicing ->  -ve index used from -1 to -n (when last character is to be obtained & length is unknown)
      - slicing ->  slicing done using skip value  ( [l : m : n])
+     - len(string) -> returns length of string
+     - string.endswith(' ') -> returns with True or False if it ends with same character
+     - string.count(' ') -> returns count of any letter or word
+     - string.find(' ')  -> returns index of any letter or word and if not present then -1
+     - string.replace(old,new) -> replacing of words
+     
+*   Escape Characters :
+     - \t -> tab space
+     - \n -> new line
      
   
   ### NOTE : 
@@ -73,6 +82,9 @@
         3.  Typecasting does not gurantee to change but it will try to change the dataype 
         4.  input is always as a string in Python
         5.  If  different datatype is required then it can be done using Typecasting 
+        6. space is also counted as 1 character in a string 
+        7. string.find returns only 1st occurence of that letter or word
+        
      
   
 **:)**
