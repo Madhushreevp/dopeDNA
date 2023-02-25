@@ -33,8 +33,7 @@
    - <code style="color : black"># single line comments</code> : used for single line comments
    - <code style="color : black">'''multi-line comments'''</code> : used for multi-line comments
    - ''' more than 1 line string ''' is called string literal 
-        -  Note : <code style="color : black">os.listdir()</code> : used for listing all files in directory
-     
+             
  * Datatypes :
     1.  integers 
     2.  floating point
@@ -42,11 +41,38 @@
     4.  boolean 
     5.  None 
    - variable is name to any memory location
+   - variable names are case sensitive i.e. 'ABC' and 'abc' are 2 different variables
    - in python, string can be in single or double or triple quotes
    - in python, datatype is identified by itself 
    - in python, datatype name can start with letters, underscore but not with digits & space 
    - in python, variable names are case sensitive i.e. 'ABC' and 'abc' are 2 different variables
    - in python,   <code style="color : black"> type(variable_name) </code>  is a built-in function which returns datatype of any variable
    - same rule applies for identifer (identifier is class or function or variable name )
+  
+  * Operators :
+     1.  Arithmetic : +,-,*,/,**,//
+     2.  Assignment : =,+=,-=,*=,/=
+     3.  Comparison : ==,>=,<=,!=,>,<
+     4.  Logical    : and , or , not
+     
+   * Typecasting :
+     - Process of changing 1 datatype to another
+     - **type(variable)** : syntax
+  
+  * Strings :
+     - enclosed in single,double,triple quotes
+     - string concantentation 
+     - slicing ->  using index from 0 to n (where n is not considered , n-1 is endpoint)
+     - slicing ->  -ve index used from -1 to -n (when last character is to be obtained & length is unknown)
+     - slicing ->  slicing done using skip value  ( [l : m : n])
+     
+  
+  ### NOTE : 
+        1.  By default in python , number is in float datatype.
+        2.  <code style="color : black">os.listdir()</code> : used for listing all files in directory
+        3.  Typecasting does not gurantee to change but it will try to change the dataype 
+        4.  input is always as a string in Python
+        5.  If  different datatype is required then it can be done using Typecasting 
+     
   
 **:)**
