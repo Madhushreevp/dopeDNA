@@ -144,7 +144,9 @@
         9. sum function sums all values in list
        10. Tuple always needs comma even if only 1 element is present
        11. Set treats float & int of number as same but string of that number different
-       12. pass - keyword or Null statement for doing nothing
+       12. pass -> keyword or Null statement for doing nothing
+       13. is -> keyword works like equal to
+       14. in -> keyword works like finding inside any data collection
      
   
 **:)**
