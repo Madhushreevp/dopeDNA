@@ -151,6 +151,15 @@
           - body 
           - return
      
+ * Files :
+     - f = open('fileName','mode')
+          - f.read() 
+          - f.close()
+     - mode -> r (to read), w (to write), a (to append), + ( to read & write)
+     - by default mode is 'r' to read
+     - with open('fileName','mode') as f :
+          - a = f.write('myName') 
+     - with statement automatically closes file    
   ### NOTE : 
         1.  By default in python , number is in float datatype.
         2.  <code style="color : black">os.listdir()</code> : used for listing all files in directory
@@ -170,5 +179,7 @@
        16. 'break'     -> keyword to exit loop
        17. 'continue'  -> keyword to skip a specific value or step
        18. Recursion function is one which calls itself and can be used in any direct algorithm or formula
+       19. func.strip() -> removes extra spaces from a string
+       20. os.remove(funcName) -> deletes file
   
 **:)**
