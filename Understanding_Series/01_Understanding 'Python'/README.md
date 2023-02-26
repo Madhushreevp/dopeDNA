@@ -74,6 +74,7 @@
 *   Escape Characters :
      - \t -> tab space
      - \n -> new line
+     
  *  List :
      - to contain any & all kinds of datatypes
      - ordered and mutable kind 
@@ -86,7 +87,17 @@
      - list.pop(index)    -> removes value at index and returns value
      - list.remove(value) -> removes value directly 
      - Example -> listNew = [ "name", 45, 175.36]   
-  
+   
+  *  Tuple :
+     - stored in circular brackets ()
+     - ordered and immutable kind 
+     - has indexing just like strings
+     - values can't be changed in tuple using indexing 
+     - tuple.count(value) -> returns count of times that value is present
+     - tuple.index(value) -> returns 1st occurence index of that value
+     - Example -> tupleNew = (45,)  
+    
+    
   ### NOTE : 
         1.  By default in python , number is in float datatype.
         2.  <code style="color : black">os.listdir()</code> : used for listing all files in directory
@@ -96,7 +107,8 @@
         6. space is also counted as 1 character in a string 
         7. string.find returns only 1st occurence of that letter or word
         8. Python docs -> all in 1 info about Python
-        
+        9. sum function sums all values in list
+       10. Tuple always needs comma even if only 1 element is present
      
   
 **:)**
