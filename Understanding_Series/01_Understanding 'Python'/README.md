@@ -137,6 +137,19 @@
      - if condition true then goes inside loop else not
      - used for infinite loop
      
+ * for item in list or tuple :
+     - identation important
+     - used for iterating through any data collection or datatype sequence
+* range :
+     - function for generating sequence of numbers from 0 to n-1
+     - range(start,stop,step-size) : syntax
+
+* Function :
+     - identation important
+     - to do a specific task
+     - def func_name (parameter) :
+          - body 
+          - return
      
   ### NOTE : 
         1.  By default in python , number is in float datatype.
@@ -153,6 +166,9 @@
        12. pass -> keyword or Null statement for doing nothing
        13. is -> keyword works like equal to
        14. in -> keyword works like finding inside any data collection
-     
+       15. while & for loop with else can be used when 'break' is not used and loop is executed totally
+       16. 'break'     -> keyword to exit loop
+       17. 'continue'  -> keyword to skip a specific value or step
+       18. Recursion function is one which calls itself and can be used in any direct algorithm or formula
   
 **:)**
