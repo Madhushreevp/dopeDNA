@@ -23,6 +23,10 @@
   - works in terminal
   - can't save program in REPL 
   - used for faster evaluation
+* Naming style :
+  - camelCase
+  - PascalCase
+  - snake_case
  
  ### 03. Key Info :
  * Comments :
