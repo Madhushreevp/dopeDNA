@@ -75,7 +75,17 @@
      - \t -> tab space
      - \n -> new line
  *  List :
-     -     
+     - to contain any & all kinds of datatypes
+     - ordered and mutable kind 
+     - has indexing just like strings
+     - values can be changed in list using indexing 
+     - list.sort()    -> sorting in ascending order, can't be stored in different variable
+     - list.reverse() -> prints backward
+     - list.append()  -> adds at end of list
+     - list.insert(index,value)-> inserts value at that index
+     - list.pop(index)    -> removes value at index and returns value
+     - list.remove(value) -> removes value directly 
+     - Example -> listNew = [ "name", 45, 175.36]   
   
   ### NOTE : 
         1.  By default in python , number is in float datatype.
