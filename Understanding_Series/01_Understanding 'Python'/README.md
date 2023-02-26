@@ -123,6 +123,14 @@
      - set.clear          -> clears the set
      - set.union(set)     -> returns union of sets
      - set.intersection(set)-> returns intersection of sets
+   
+   
+ *  if-elif-else() :
+     - identation important
+     - when many if-else statements, compiler stops as soon as 1st True condition recieved 
+     - further statements won't be executed
+     - when all statements are needed to be executed then use only 'if' for all conditions
+     - else statement is optional in Python
     
   ### NOTE : 
         1.  By default in python , number is in float datatype.
@@ -136,6 +144,7 @@
         9. sum function sums all values in list
        10. Tuple always needs comma even if only 1 element is present
        11. Set treats float & int of number as same but string of that number different
+       12. pass - keyword or Null statement for doing nothing
      
   
 **:)**
