@@ -132,6 +132,12 @@
      - when all statements are needed to be executed then use only 'if' for all conditions
      - else statement is optional in Python
     
+  * while(condition) :
+     - identation important
+     - if condition true then goes inside loop else not
+     - used for infinite loop
+     
+     
   ### NOTE : 
         1.  By default in python , number is in float datatype.
         2.  <code style="color : black">os.listdir()</code> : used for listing all files in directory
