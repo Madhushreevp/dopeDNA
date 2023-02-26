@@ -110,7 +110,19 @@
      - dict.get(key)-> returns value , if not exists then returns NONE
      - dictNew = {  "color" : "lilac" } 
   
-  
+  *  Sets :
+     - stored in curly brackets {}
+     - un-ordered , mutable , un-indexed kind 
+     - items are unique and non-repetitve
+     - repetitive items won't be displayed  
+     - tuple can be added but list & dict can't be added in set
+     - set.add(value)     -> value added in set, if same statement repeated, value added only once
+     - len(set)           -> prints length of set
+     - set.remove(value)  -> prints removed value
+     - set.pop()          -> prints random removed value
+     - set.clear          -> clears the set
+     - set.union(set)     -> returns union of sets
+     - set.intersection(set)-> returns intersection of sets
     
   ### NOTE : 
         1.  By default in python , number is in float datatype.
@@ -123,6 +135,7 @@
         8. Python docs -> all in 1 info about Python
         9. sum function sums all values in list
        10. Tuple always needs comma even if only 1 element is present
+       11. Set treats float & int of number as same but string of that number different
      
   
 **:)**
