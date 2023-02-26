@@ -77,7 +77,7 @@
      
  *  List :
      - to contain any & all kinds of datatypes
-     - ordered and mutable kind 
+     - ordered , mutable , indexed kind 
      - has indexing just like strings
      - values can be changed in list using indexing 
      - list.sort()    -> sorting in ascending order, can't be stored in different variable
@@ -90,13 +90,27 @@
    
   *  Tuple :
      - stored in circular brackets ()
-     - ordered and immutable kind 
+     - ordered , immutable , indexed kind 
      - has indexing just like strings
      - values can't be changed in tuple using indexing 
      - tuple.count(value) -> returns count of times that value is present
      - tuple.index(value) -> returns 1st occurence index of that value
      - Example -> tupleNew = (45,)  
     
+ *  Dictionary :
+     - to store data in key-value pair
+     - un-ordered , mutable , indexed kind 
+     - prints value corresponding to the key
+     - key & value can be any dataype , even list,string or new dictionary 
+     - keys are always UNIQUE and can't be duplicated
+     - dict.keys    -> prints all keys
+     - dict.value   -> prints all values
+     - dict.items   -> prints all keys & values
+     - dict.update  -> value added at end of dict , if key exists then key also updated
+     - dict.get(key)-> returns value , if not exists then returns NONE
+     - dictNew = {  "color" : "lilac" } 
+  
+  
     
   ### NOTE : 
         1.  By default in python , number is in float datatype.
